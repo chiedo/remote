@@ -4,7 +4,11 @@ How I do remote!
 
 ## ⚙️ Gear
 
+<details>
+  <summary>Click to see photo(s)</summary>
+  
 ![desk-set-up](https://user-images.githubusercontent.com/2156688/146001227-cdb85a8a-1088-4075-bf85-2694eef68b78.png)
+</details>
 
 ### Desk
 
