@@ -4,6 +4,8 @@ How I do remote!
 
 ## ⚙️ Gear
 
+![desk-set-up](https://user-images.githubusercontent.com/2156688/146001227-cdb85a8a-1088-4075-bf85-2694eef68b78.png)
+
 ### Desk
 
 - [72"x30" Uplift desk](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/)
@@ -23,6 +25,7 @@ How I do remote!
 - [HDMI to Micro HDMI adapater](https://www.amazon.com/dp/B06WWQ7KLV?ref=ppx_pop_mob_ap_share)
 - [Dual tripod mount](https://www.amazon.com/dp/B06ZXYWBG7?ref=ppx_pop_mob_ap_share): To center the camera over the monitor
 - [Removable Counterweight](https://www.amazon.com/dp/B07PTMYRLS?ref=ppx_pop_mob_ap_share): To keep camera balanced while using the dual tripod mount
+- [Elgato broadcasting light](https://www.amazon.com/Elgato-Key-Light-Air-app-adjustable/dp/B082QHRZFW)
 - HDMI Cable 
 
 ### Microphone
