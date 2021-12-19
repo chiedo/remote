@@ -14,6 +14,7 @@ How I do remote!
 
 - [72"x30" Uplift desk](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/)
 - [USB-C Hub](https://www.amazon.com/TOTU-Ethernet-Delivery-Portable-Laptops/dp/B07FX2LW35/ref=sr_1_3?keywords=totu%2Bhub&qid=1639409573&smid=A1HGZ31BI2EDL4&sr=8-3&th=1)
+- [Laptop stand](https://www.amazon.com/Nulaxy-Adjustable-Multi-Angle-Compatible-Space-Saving/dp/B07F1LHZTM/ref=sr_1_1_sspa?keywords=16+inch+laptop+stand)
 
 ### Monitor
 
