@@ -31,6 +31,7 @@ How I do remote!
 - [Dual tripod mount](https://www.amazon.com/dp/B06ZXYWBG7?ref=ppx_pop_mob_ap_share): To center the camera over the monitor
 - [Removable Counterweight](https://www.amazon.com/dp/B07PTMYRLS?ref=ppx_pop_mob_ap_share): To keep camera balanced while using the dual tripod mount
 - [Elgato broadcasting light](https://www.amazon.com/Elgato-Key-Light-Air-app-adjustable/dp/B082QHRZFW)
+- [AC Adapter](https://www.bhphotovideo.com/c/product/712856-REG/Sony_ACPW20_AC_Adapter_for_NEX3_5.html)
 - HDMI Cable 
 
 ### Microphone
