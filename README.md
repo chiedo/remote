@@ -33,6 +33,7 @@ How I do remote!
 - [Elgato broadcasting light](https://www.amazon.com/Elgato-Key-Light-Air-app-adjustable/dp/B082QHRZFW)
 - [AC Adapter](https://www.bhphotovideo.com/c/product/712856-REG/Sony_ACPW20_AC_Adapter_for_NEX3_5.html)
 - HDMI Cable 
+- [Polarizing filter](https://www.amazon.com/dp/B00009UTCR?ref=ppx_pop_mob_ap_share): To remove the glare on glasses.
 
 ### Microphone
 
