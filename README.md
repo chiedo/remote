@@ -13,14 +13,18 @@ How I do remote!
 ### Desk
 
 - [72"x30" Uplift desk](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/)
-- [USB-C Hub](https://www.amazon.com/TOTU-Ethernet-Delivery-Portable-Laptops/dp/B07FX2LW35/ref=sr_1_3?keywords=totu%2Bhub&qid=1639409573&smid=A1HGZ31BI2EDL4&sr=8-3&th=1)
 - [Laptop stand](https://www.amazon.com/Nulaxy-Adjustable-Multi-Angle-Compatible-Space-Saving/dp/B07F1LHZTM/ref=sr_1_1_sspa?keywords=16+inch+laptop+stand)
+
+### Chair
+
+- [Steelcase Leap office chair](https://www.amazon.com/Steelcase-Fabric-Chair-Black-46216179FBL/dp/B006H1QYBA/)
+- [The Original Headrest for The Herman Miller Aeron Chair](https://www.amazon.com/Engineered-Now-Headrest-Remastered-Graphite/dp/B077GHT4LX/)
+- [Zip ties to attach the headrest](https://www.amazon.com/Honyear-Cutters-Tensile-Strength-Resistant/dp/B07CLG9S5L/): Sounds sketchy but it works SO well and is better than the Steelcase headrest.
 
 ### Monitor
 
-- [HP VH240a 23.8-inch Full HD 1080p monitor](https://www.amazon.com/dp/B072M34RQC?ref=ppx_pop_mob_ap_share)
-- [HUANUO Single Monitor Stand Desk](https://www.amazon.com/dp/B07SKGXMNV?ref=ppx_pop_mob_ap_share)
-- HDMI cable
+- [Apple studio display with VESA Mount adapter](https://www.apple.com/studio-display/)
+- [HUANUO Single Monitor Stand Desk Mounted](https://www.amazon.com/dp/B07SKGXMNV?ref=ppx_pop_mob_ap_share)
 
 ### Webcam
 
