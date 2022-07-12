@@ -20,6 +20,7 @@ How I do remote!
 - [Steelcase Leap office chair](https://www.amazon.com/Steelcase-Fabric-Chair-Black-46216179FBL/dp/B006H1QYBA/)
 - [The Original Headrest for The Herman Miller Aeron Chair](https://www.amazon.com/Engineered-Now-Headrest-Remastered-Graphite/dp/B077GHT4LX/)
 - [Zip ties to attach the headrest](https://www.amazon.com/Honyear-Cutters-Tensile-Strength-Resistant/dp/B07CLG9S5L/): Sounds sketchy but it works SO well and is better than the Steelcase headrest.
+- [Gel seat cushion](https://www.amazon.com/dp/B097DZB3QF/) 
 
 ### Monitor
 
