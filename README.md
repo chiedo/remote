@@ -43,5 +43,5 @@ How I do remote!
 ### Microphone
 
 - [Shure SM58 Cardioid Dynamic Vocal mic](https://www.amazon.com/dp/B001PPPWIE?ref=ppx_pop_mob_ap_share)
-- [Mic stand](https://www.amazon.com/dp/B00BPELU68?ref=ppx_pop_mob_ap_share)
+- [Mic stand](https://www.amazon.com/dp/B07DHLSTLV)
 - [Mic cover](https://www.amazon.com/dp/B01G3JJ4HQ?ref=ppx_pop_mob_ap_share)
