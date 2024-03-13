@@ -42,7 +42,7 @@ How I do remote!
 
 ### Microphone
 
-- [Shure SM58 Cardioid Dynamic Vocal mic](https://www.amazon.com/dp/B001PPPWIE?ref=ppx_pop_mob_ap_share)
+- [Shure SM7B Mic w/built in preamp](https://www.amazon.com/Shure-SM7B-Cardioid-Dynamic-Microphone/dp/B0002E4Z8M?th=1)
 - [Mic arm](https://www.amazon.com/dp/B07DHLSTLV?ref=ppx_pop_mob_ap_share)
 - [Mic cover](https://www.amazon.com/dp/B01G3JJ4HQ?ref=ppx_pop_mob_ap_share)
-- [Preamp](https://www.amazon.com/dp/B0C5JRTS3Y)
+- [2i2 Preamp for XLR to USB + more](https://www.amazon.com/dp/B0C5JRTS3Y)
