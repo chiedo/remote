@@ -34,8 +34,9 @@ How I do remote!
 - [Elgato Cam Link 4K DSLR adapter](https://www.amazon.com/dp/B07K3FN5MR?ref=ppx_pop_mob_ap_share)
 - [HDMI to Micro HDMI adapater](https://www.amazon.com/dp/B06WWQ7KLV?ref=ppx_pop_mob_ap_share)
 - [Dual tripod mount](https://www.amazon.com/dp/B06ZXYWBG7?ref=ppx_pop_mob_ap_share): To center the camera over the monitor
-- [Removable Counterweight](https://www.amazon.com/dp/B07PTMYRLS?ref=ppx_pop_mob_ap_share): To keep camera balanced while using the dual tripod mount
+- [4 Removable Counterweights](https://www.amazon.com/dp/B07PTMYRLS?ref=ppx_pop_mob_ap_share): To keep camera balanced while using the dual tripod mount
 - [AC Adapter](https://www.bhphotovideo.com/c/product/712856-REG/Sony_ACPW20_AC_Adapter_for_NEX3_5.html)
+- [Elgato prompter](https://www.elgato.com/us/en/p/prompter)
 - HDMI Cable 
 
 ### Microphone
