@@ -7,7 +7,7 @@ How I do remote!
 <details>
   <summary>Click to see photo(s)</summary>
   
-![desk-set-up](https://user-images.githubusercontent.com/2156688/178770402-f23b59f8-4e5c-4a12-8916-b4e5d77eecc4.jpg)
+
 </details>
 
 ### Desk
