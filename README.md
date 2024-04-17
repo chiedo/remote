@@ -4,12 +4,6 @@ How I do remote!
 
 ## ⚙️ Gear
 
-<details>
-  <summary>Click to see photo(s)</summary>
-  
-
-</details>
-
 ### Desk
 
 - [72"x30" Uplift desk](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/)
