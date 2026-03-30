@@ -30,9 +30,7 @@ How I do remote!
 - [AVerMedia HDMI 2.1 Capture Card](https://www.amazon.com/dp/B0CGD86HNB?ref=ppx_yo2ov_dt_b_product_details&th=1)
 - [Thunderbolt 4 USB-C to USB-C cable](https://www.amazon.com/dp/B09KT17XQT?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [HDMI to Micro HDMI adapater](https://www.amazon.com/dp/B06WWQ7KLV?ref=ppx_pop_mob_ap_share)
-- [Dual tripod mount](https://www.amazon.com/dp/B06ZXYWBG7?ref=ppx_pop_mob_ap_share): To center the camera over the monitor
 - [AC Adapter](https://www.bhphotovideo.com/c/product/712856-REG/Sony_ACPW20_AC_Adapter_for_NEX3_5.html)
-- [Elgato prompter](https://www.elgato.com/us/en/p/prompter)
 - HDMI Cable 
 
 ### Microphone
